@@ -10,3 +10,7 @@ Key concepts covered:
 - Sklearn classification model (RandomForest)
 - Pipeline components containerization with Docker
 - Kubeflow Pipeline deployment on Vertex AI
+
+Pipeline:
+
+![image](https://github.com/user-attachments/assets/aa41ffb6-d8e6-464e-a26c-54ce1c1b661f)
